@@ -7,6 +7,7 @@
  
 
 [微积分(英) http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf]( http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf)
+
 [线性代数 (英) http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf]( http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
 
 
@@ -14,7 +15,7 @@
 
 [Numpy 入门 http://cs231n.github.io/python-numpy-tutorial/](http://cs231n.github.io/python-numpy-tutorial/)
 
-[pandas 入门  https://pandas.pydata.org/pandas-docs/stable/10min.html]( https://pandas.pydata.org/pandas-docs/stable/10min.html) 
+[Pandas 入门  https://pandas.pydata.org/pandas-docs/stable/10min.html]( https://pandas.pydata.org/pandas-docs/stable/10min.html) 
 
 
 [机器学习实战 https://book.douban.com/subject/24703171/](https://book.douban.com/subject/24703171/)
@@ -25,3 +26,5 @@
 
 [Python 深度学习 https://book.douban.com/subject/30293801/](https://book.douban.com/subject/30293801/)
 
+
+[Keras 中文文档  https://keras.io/zh/](https://keras.io/zh/)
