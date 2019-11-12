@@ -28,3 +28,12 @@
 
 
 [Keras 中文文档  https://keras.io/zh/](https://keras.io/zh/)
+
+
+
+### 例子
+
+[台标识别分类](https://github.com/dikers/ml-python-sample/tree/master/icon_classification)
+
+[语种声音识别](https://github.com/dikers/ml-python-sample/tree/master/voiceBP)
+
