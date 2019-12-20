@@ -31,5 +31,9 @@ deep-learing/.ipynb_checkpoints/
 *.gz
 *.pkl
 *.zip
+*data
+*/data/
+*/data/*
+./data/*
 
 .DS_Store
