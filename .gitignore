@@ -17,6 +17,10 @@
 *.iml
 *.ipr
 
+__MACOSX/
+__MACOSX/*
+*/__MACOSX/
+
 ### NetBeans ###
 /nbproject/private/
 /build/
