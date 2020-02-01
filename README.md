@@ -13,6 +13,9 @@
 
 [python 基础教程 http://www.pythondoc.com/pythontutorial3/appetite.html](http://www.pythondoc.com/pythontutorial3/appetite.html)
 
+[python 视频教程 https://classroom.udacity.com/courses/ud1110 ]
+(https://classroom.udacity.com/courses/ud1110 )
+
 [Numpy 入门 http://cs231n.github.io/python-numpy-tutorial/](http://cs231n.github.io/python-numpy-tutorial/)
 
 [Pandas 入门  https://pandas.pydata.org/pandas-docs/stable/10min.html]( https://pandas.pydata.org/pandas-docs/stable/10min.html) 
