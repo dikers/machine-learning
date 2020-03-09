@@ -35,6 +35,10 @@ deep-learing/.ipynb_checkpoints/
 *.gz
 *.pkl
 *.zip
+*.csv
+*.json
+*/dataset/
+*/dataset/*
 *data
 */data/
 */data/*
