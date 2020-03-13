@@ -45,6 +45,8 @@ deep-learing/.ipynb_checkpoints/
 ./data/*
 */output/*
 */output
-*/tensorflow/images
-*/keras/images
+*/tensorflow/image/
+*/tensorflow/images/*
+*/keras/images/*
+*/keras/images/
 .DS_Store
