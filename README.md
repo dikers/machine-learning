@@ -6,10 +6,6 @@
 ### 入门资料和书籍
  
 
-[微积分(英) http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf]( http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf)
-
-[线性代数 (英) http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf]( http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
-
 
 [python 基础教程 http://www.pythondoc.com/pythontutorial3/appetite.html](http://www.pythondoc.com/pythontutorial3/appetite.html)
 
@@ -31,6 +27,21 @@
 
 [Keras 中文文档  https://keras.io/zh/](https://keras.io/zh/)
 
+
+### 视频课程
+
+[吴恩达 机器学习](https://www.bilibili.com/video/BV164411b7dx?from=search&seid=12182121758542648631)
+[吴恩达 深度学习](https://www.bilibili.com/video/BV1gb411j7Bs?from=search&seid=12182121758542648631)
+
+
+
+### 数学知识
+
+[微积分(英) http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf]( http://tutorial.math.lamar.edu/pdf/Calculus_Cheat_Sheet_All.pdf)
+
+[线性代数的本质](https://www.bilibili.com/video/BV1ys411472E)
+
+[线性代数 (英) http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf]( http://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
 
 
 ### 例子
