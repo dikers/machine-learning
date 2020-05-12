@@ -39,6 +39,8 @@ deep-learing/.ipynb_checkpoints/
 *.json
 */dataset/
 */dataset/*
+*/datasets/
+*/datasets/*
 *data
 */data/
 */data/*
